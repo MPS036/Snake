@@ -1,3 +1,0 @@
-One of my last projects and one of the most difficult at the moment.
-A standard snake game, but with the ability to move through the boundaries of the field
-(that is, when passing through the left border, you will appear on the right)
