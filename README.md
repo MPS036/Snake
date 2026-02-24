@@ -1,6 +1,6 @@
 # 🐍 Snake (Pygame)
 
-- A classic Snake game implemented with Pygame, including wrap-around movement (crossing one border teleports the snake to the opposite side).
+A classic Snake game implemented with Pygame, including wrap-around movement (crossing one border teleports the snake to the opposite side).
 
 ## ✨ Features:
 - Grid-based Snake gameplay;
